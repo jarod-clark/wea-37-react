@@ -1,0 +1,14 @@
+.list-item {
+  position: relative;
+  left: 10px;
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-bottom: 5px;
+  width: 292px;
+  border-radius: 10px;
+  transition: 200ms;
+}
+.list-item:hover {
+  background-color: #18d1ff;
+  transition: 200ms;
+}
